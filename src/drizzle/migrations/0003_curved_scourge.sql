@@ -1,0 +1,1 @@
+ALTER TABLE "email_aliases" ADD COLUMN "is_deleted" boolean DEFAULT false NOT NULL;
